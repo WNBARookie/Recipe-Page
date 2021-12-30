@@ -1,0 +1,23 @@
+{
+  "name": "Recipe-Page",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build:tailwind": "tailwind build -i src/style.css -o public/style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WNBARookie/Recipe-Page.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WNBARookie/Recipe-Page/issues"
+  },
+  "homepage": "https://github.com/WNBARookie/Recipe-Page#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.0.8"
+  }
+}
